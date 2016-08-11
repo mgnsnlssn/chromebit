@@ -1,2 +1,2 @@
 # chromebit
-just learning the github idea, and oh, reading a manual telling me ho w to.
+just learning the github idea, and oh, reading a manual telling me how to.
